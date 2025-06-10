@@ -1,0 +1,11 @@
+[project]
+name = "tower-defence"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pygame>=2.6.1",
+    "pyinstaller>=6.14.1",
+    "ruff>=0.11.13",
+]
